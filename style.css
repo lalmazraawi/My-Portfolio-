@@ -1,0 +1,41 @@
+.about{
+ color:green;
+background:greenyellow;
+height: 50px;
+width: 420px; 
+margin-top: 100px;
+margin-left:400px;
+
+}
+.statement{
+    color:black;
+    background-color:orange;
+    margin-left:430px;
+    height: 180px;
+    width: 350px;
+    font-family: 'Courier New', monospace;
+    
+
+}
+.links{
+    color:orange
+}
+html{
+    background-color: white;
+}
+.picture{
+    width: 350px;
+} 
+.cloud{
+    background-color:blue;
+    border-radius: 100px;
+    height: 100px;
+    width: 300px;
+    margin-top: 100px;
+    margin-left: 50px;
+
+}
+.links{
+    height: 40px;
+    width: 40px;
+}
